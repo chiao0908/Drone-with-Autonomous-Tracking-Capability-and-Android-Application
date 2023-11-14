@@ -1,0 +1,8 @@
+prefix=/home/nvidia/ros_catkin_ws/install
+
+Name: xyz
+Description: Description of xyz
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/ros_catkin_ws/install/lib 
+Requires: roscpp rospy std_msgs geometry_msgs

@@ -1,0 +1,7 @@
+<launch>
+  <node name="main" pkg="xyz" type="main" output="screen" >
+  </node>
+  <node name="yolo" pkg="xyz" type="yolo" output="screen">
+   
+  </node>
+</launch>
